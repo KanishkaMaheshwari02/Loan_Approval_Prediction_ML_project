@@ -1,6 +1,4 @@
-# Loan_Approval_Prediction_ML_project
-
-# 🏦 Loan Approval Prediction using Machine Learning
+# 🏦 Loan_Approval_Prediction_ML_project
 
 This project aims to predict whether a **loan application will be approved or rejected** using a **Logistic Regression model**.  
 It demonstrates the complete data science workflow — from **data preprocessing and feature scaling** to **model training, evaluation, and interpretation**.
